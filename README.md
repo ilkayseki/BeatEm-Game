@@ -1,1 +1,1 @@
-# ZigZag-Game-Task
+# BeatEm-Game-Task
